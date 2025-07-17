@@ -9,5 +9,3 @@ public class main {
     }
 }
 
-
-// Move chessePizza to its own file named chessePizza.java
